@@ -37,3 +37,25 @@ NSCLC
 ## Remarks
 
 The first a-TIGIT therapy. Therapy in combination with Tecentriq in Phase III.
+
+# Bevacizumab
+
+## Name
+
+Avastin, 安维汀, 贝伐珠单抗
+
+## Company
+
+Roche
+
+## MOA 
+
+Antiangiogenic, targeting VEGF-A
+
+## Indication 
+
+Kidney, colon, rectum, lung, breast
+
+## Remarks
+
+The first antiangiogenic humanized mAb.
